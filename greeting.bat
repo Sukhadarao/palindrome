@@ -1,1 +1,1 @@
-echo "Executing master branch: %date% : %time% "
+echo "Executing Hot_Fix branch: %date% : %time% "
