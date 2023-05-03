@@ -1,1 +1,1 @@
-echo "Executing master branch: %date% : %time% "
+echo "Executing Feature branch: %date% : %time% "
